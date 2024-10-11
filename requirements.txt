@@ -1,0 +1,14 @@
+streamlit
+qdrant-client
+llama-index
+llama-index-core
+llama-index-embeddings-openai
+llama-index-postprocessor-flag-embedding-reranker
+git+https://github.com/FlagOpen/FlagEmbedding.git
+llama-index-llms-groq
+llama-index-embeddings-langchain
+llama-index-embeddings-huggingface
+langchain
+langchain_openai
+langchain_core
+llama-index-vector-stores-qdrant
